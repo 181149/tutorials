@@ -13,7 +13,7 @@
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
         <version>Athens-RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <dependencies>
@@ -614,7 +614,7 @@
         <springlets.version>1.2.0.RC1</springlets.version>
         <tracee.version>1.1.2</tracee.version>
         <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
-        <thymeleaf-layout-dialect.version>2.0.0</thymeleaf-layout-dialect.version>
+        <thymeleaf-layout-dialect.version>3.0.0</thymeleaf-layout-dialect.version>
         <thymeleaf-data-dialect.version>2.0.1</thymeleaf-data-dialect.version>
         <dynamicjasper.version>5.0.11</dynamicjasper.version>
         <dynamicjasper-fonts.version>1.0</dynamicjasper-fonts.version>
