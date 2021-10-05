@@ -16,13 +16,13 @@
         <dependency>
             <groupId>org.apache.meecrowave</groupId>
             <artifactId>meecrowave-core</artifactId>
-            <version>1.2.1</version>
+            <version>1.2.11</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.meecrowave/meecrowave-jpa -->
         <dependency>
             <groupId>org.apache.meecrowave</groupId>
             <artifactId>meecrowave-jpa</artifactId>
-            <version>1.2.1</version>
+            <version>1.2.11</version>
         </dependency>
 
         <dependency>
