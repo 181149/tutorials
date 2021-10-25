@@ -134,7 +134,7 @@
         <slf4j-log4j12.version>1.7.5</slf4j-log4j12.version>
         <vraptor-freemarker.version>4.1.0-RC3</vraptor-freemarker.version>
         <vraptor-hibernate.version>4.0.4</vraptor-hibernate.version>
-        <mysql-connector.version>8.0.8-dmr</mysql-connector.version>
+        <mysql-connector.version>8.0.27</mysql-connector.version>
         <jbcrypt.version>0.4</jbcrypt.version>
         <freemarker.version>2.3.27-incubating</freemarker.version>
         <tomcat7-maven-plugin.version>2.1</tomcat7-maven-plugin.version>
