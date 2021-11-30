@@ -11,7 +11,7 @@
     <description>Spring Session with JDBC tutorial</description>
 
     <properties>
-        <h2.version>1.4.197</h2.version>
+        <h2.version>2.0.202</h2.version>
     </properties>
 
     <parent>
