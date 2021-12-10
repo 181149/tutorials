@@ -42,7 +42,7 @@
     
     <properties>
         <lombok.version>1.16.16</lombok.version>
-        <stripe.version>4.2.0</stripe.version>
+        <stripe.version>20.91.0</stripe.version>
     </properties>
 
 </project>
