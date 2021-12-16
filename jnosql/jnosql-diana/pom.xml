@@ -74,7 +74,7 @@
         <dependency>
             <groupId>org.jnosql.diana</groupId>
             <artifactId>cassandra-driver</artifactId>
-            <version>0.0.5</version>
+            <version>0.0.8</version>
         </dependency>
 
         <!--NoSQL Key Value oriented-->
