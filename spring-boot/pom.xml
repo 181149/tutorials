@@ -218,7 +218,7 @@
         <rome.version>1.9.0</rome.version>
         <chaos.monkey.version>2.0.0</chaos.monkey.version>
         <graphql-spring-boot-starter.version>3.6.0</graphql-spring-boot-starter.version>
-        <graphql-java-tools.version>3.2.0</graphql-java-tools.version>
+        <graphql-java-tools.version>5.2.4</graphql-java-tools.version>
         <guava.version>18.0</guava.version>
 		<junit-platform.version>1.2.0</junit-platform.version>
 		<git-commit-id-plugin.version>2.2.4</git-commit-id-plugin.version>
