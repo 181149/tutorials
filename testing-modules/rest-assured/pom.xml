@@ -192,7 +192,7 @@
         <msg-simple.version>1.1</msg-simple.version>
         <btf.version>1.2</btf.version>
         <groovy.version>2.4.7</groovy.version>
-        <wiremock.version>2.4.1</wiremock.version>
+        <wiremock.version>2.26.0</wiremock.version>
 
         <github-json-schema-validator.version>2.2.6</github-json-schema-validator.version>
         <json-schema-core.version>1.2.5</json-schema-core.version>
