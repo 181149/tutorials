@@ -215,7 +215,7 @@
         <start-class>org.baeldung.demo.DemoApplication</start-class>
         <tomee-servlet-api.version>8.5.11</tomee-servlet-api.version>
         <togglz.version>2.4.1.Final</togglz.version>
-        <rome.version>1.9.0</rome.version>
+        <rome.version>1.14.0</rome.version>
         <chaos.monkey.version>2.0.0</chaos.monkey.version>
         <graphql-spring-boot-starter.version>3.6.0</graphql-spring-boot-starter.version>
         <graphql-java-tools.version>3.2.0</graphql-java-tools.version>
