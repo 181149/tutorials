@@ -59,7 +59,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
           <!-- ROME for RSS -->
-        <rome.version>1.10.0</rome.version>
+        <rome.version>1.14.0</rome.version>
         <start-class>com.baeldung.springbootmvc.SpringBootMvcApplication</start-class>
     </properties>
 
