@@ -200,7 +200,7 @@
         <freemarker.version>2.3.27-incubating</freemarker.version>
         <jade.version>1.2.5</jade.version>
         <junit.platform.version>1.0.2</junit.platform.version>
-        <rome.version>1.9.0</rome.version>
+        <rome.version>1.14.0</rome.version>
         <jackson.version>2.9.4</jackson.version>
         <xstream.version>1.4.9</xstream.version>
         <scribejava.version>5.1.0</scribejava.version>
