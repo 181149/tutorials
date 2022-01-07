@@ -132,7 +132,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>5.0.2.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.19.RELEASE</org.springframework.version>
         <org.springframework.data.version>1.10.6.RELEASE</org.springframework.data.version>
         <org.springframework.security.version>4.2.1.RELEASE</org.springframework.security.version>
 
@@ -143,7 +143,7 @@
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
         <jta.version>1.1</jta.version>
         <hsqldb.version>2.3.4</hsqldb.version>
-        <h2.version>1.4.195</h2.version>
+        <h2.version>2.0.206</h2.version>
 
         <!-- util -->
         <guava.version>21.0</guava.version>
