@@ -68,7 +68,7 @@
     </build>
 
     <properties>
-        <apache-shiro-core-version>1.4.0</apache-shiro-core-version>
+        <apache-shiro-core-version>1.5.0</apache-shiro-core-version>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <java.version>1.8</java.version>
         <log4j-version>1.2.17</log4j-version>
