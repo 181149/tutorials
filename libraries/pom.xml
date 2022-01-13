@@ -835,7 +835,7 @@
 
     <properties>
         <snakeyaml.version>1.21</snakeyaml.version>
-        <googleclient.version>1.23.0</googleclient.version>
+        <googleclient.version>1.40.0</googleclient.version>
         <crdt.version>0.1.0</crdt.version>
         <multiverse.version>0.7.0</multiverse.version>
         <cglib.version>3.2.7</cglib.version>
@@ -850,13 +850,13 @@
         <assertj.version>3.6.2</assertj.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <javers.version>3.1.0</javers.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <h2.version>1.4.196</h2.version>
         <jnats.version>1.0</jnats.version>
 
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
         <jackson.version>2.8.5</jackson.version>
         <neuroph.version>2.92</neuroph.version>
@@ -888,11 +888,11 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.32.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
