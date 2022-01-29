@@ -54,6 +54,6 @@
         <assertj-core.version>3.9.1</assertj-core.version>
         <javaee.version>8.0</javaee.version>
         <hibernate-core.version>5.2.16.Final</hibernate-core.version>
-        <mysql-connector.version>6.0.6</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
     </properties>
 </project>
