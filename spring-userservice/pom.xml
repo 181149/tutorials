@@ -218,7 +218,7 @@
     <properties>
         <!-- Spring -->
         <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
-        <spring-boot.version>1.5.14.RELEASE</spring-boot.version>
+        <spring-boot.version>2.2.12.RELEASE</spring-boot.version>
         <javassist.version>3.21.0-GA</javassist.version>
 
         <!-- persistence -->
