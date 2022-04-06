@@ -87,7 +87,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <ratpack.version>1.5.4</ratpack.version>
+        <ratpack.version>1.8.0</ratpack.version>
         <httpclient.version>4.5.3</httpclient.version>
         <httpcore.version>4.4.6</httpcore.version>
         <h2database.version>1.4.193</h2database.version>
