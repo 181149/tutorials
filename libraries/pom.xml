@@ -894,7 +894,7 @@
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
-        <infinispan.version>9.1.5.Final</infinispan.version>
+        <infinispan.version>9.4.1.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
         <unirest.version>1.4.9</unirest.version>
         <jctools.version>2.1.2</jctools.version>
