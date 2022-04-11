@@ -58,7 +58,7 @@
     <properties>
         <spring-boot-starter-web.version>1.5.10.RELEASE</spring-boot-starter-web.version>
         <spring-boot-starter-test.version>1.5.9.RELEASE</spring-boot-starter-test.version>
-        <flips-web.version>1.0.1</flips-web.version>
+        <flips-web.version>1.1</flips-web.version>
         <lombok.version>1.16.18</lombok.version>
     </properties>
 
