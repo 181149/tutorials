@@ -133,7 +133,7 @@
     <properties>
         <!-- Spring -->
         <org.springframework.version>5.0.2.RELEASE</org.springframework.version>
-        <org.springframework.data.version>1.10.6.RELEASE</org.springframework.data.version>
+        <org.springframework.data.version>2.5.11</org.springframework.data.version>
         <org.springframework.security.version>4.2.1.RELEASE</org.springframework.security.version>
 
         <!-- persistence -->
