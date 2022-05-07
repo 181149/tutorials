@@ -912,7 +912,7 @@
         <common-math3.version>3.6.1</common-math3.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
         <datanucleus.version>5.1.1</datanucleus.version>
-        <datanucleus-maven-plugin.version>5.0.2</datanucleus-maven-plugin.version>
+        <datanucleus-maven-plugin.version>6.0.0-release</datanucleus-maven-plugin.version>
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
