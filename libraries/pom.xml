@@ -932,7 +932,7 @@
         <jgrapht.version>1.0.1</jgrapht.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
-        <bouncycastle.version>1.58</bouncycastle.version>
+        <bouncycastle.version>1.69</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
         <javalin.version>1.6.0</javalin.version>
         <fugue.version>4.5.1</fugue.version>
