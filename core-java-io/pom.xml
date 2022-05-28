@@ -207,7 +207,7 @@
                         <argument>-Xmx300m</argument>
                         <argument>-XX:+UseParallelGC</argument>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.baeldung.outofmemoryerror.OutOfMemoryGCLimitExceed</argument>
                     </arguments>
                 </configuration>
@@ -272,7 +272,7 @@
                                     <executable>java</executable>
                                     <arguments>
                                         <argument>-classpath</argument>
-                                        <classpath />
+                                        <classpath/>
                                         <argument>org.openjdk.jmh.Main</argument>
                                         <argument>.*</argument>
                                     </arguments>
@@ -291,7 +291,7 @@
 
         <!-- util -->
         <commons-lang3.version>3.5</commons-lang3.version>
-        <bouncycastle.version>1.55</bouncycastle.version>
+        <bouncycastle.version>1.69</bouncycastle.version>
         <commons-codec.version>1.10</commons-codec.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <decimal4j.version>1.0.3</decimal4j.version>
