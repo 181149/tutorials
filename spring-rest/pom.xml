@@ -295,7 +295,7 @@
         <checkstyle-maven-plugin.version>3.0.0</checkstyle-maven-plugin.version>
         <dependency.locations.enabled>false</dependency.locations.enabled>
         <!-- okhttp -->
-        <com.squareup.okhttp3.version>3.4.1</com.squareup.okhttp3.version>
+        <com.squareup.okhttp3.version>4.9.2</com.squareup.okhttp3.version>
 
         <json.path.version>2.2.0</json.path.version>
         <pact.version>3.5.11</pact.version>
