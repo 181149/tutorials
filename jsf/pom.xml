@@ -106,7 +106,7 @@
         <!-- maven plugins -->
         <maven-war-plugin.version>2.6</maven-war-plugin.version>
 
-        <primefaces.version>6.2</primefaces.version>
+        <primefaces.version>12.0.0</primefaces.version>
     </properties>
 
 </project>
