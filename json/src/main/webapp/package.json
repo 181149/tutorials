@@ -4,8 +4,8 @@
     "version": "0.0.1",
     "license": "MIT",
     "dependencies": {
-         "typings": "0.6.5",
-         "jsonforms": "0.0.19",
+         "typings": "0.7.0",
+         "jsonforms": "0.0.20",
          "bootstrap": "3.3.6"
      }
 }
