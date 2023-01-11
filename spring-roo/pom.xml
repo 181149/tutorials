@@ -13,7 +13,7 @@
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
         <version>Athens-RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <dependencies>
@@ -633,7 +633,7 @@
         <fontawesome.version>4.6.2</fontawesome.version>
         <jquery.version>1.12.3</jquery.version>
         <jquery-inputmask.version>3.3.1</jquery-inputmask.version>
-        <jquery-validation.version>1.15.0</jquery-validation.version>
+        <jquery-validation.version>1.19.5</jquery-validation.version>
         <momentjs.version>2.13.0</momentjs.version>
         <select2.version>4.0.3</select2.version>
         <select2-bootstrap-theme.version>0.1.0-beta.7</select2-bootstrap-theme.version>
