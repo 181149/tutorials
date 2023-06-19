@@ -148,7 +148,7 @@
         <bootstrap.version>3.3.7-1</bootstrap.version>
         <subethasmtp.version>3.1.7</subethasmtp.version>
         <tomee-servlet-api.version>8.5.11</tomee-servlet-api.version>
-        <guava.version>18.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
     </properties>
 
 </project>
