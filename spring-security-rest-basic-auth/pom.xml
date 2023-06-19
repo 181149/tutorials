@@ -280,7 +280,7 @@
         <javax.servlet.version>3.1.0</javax.servlet.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
 
         <!-- Maven plugins -->
         <maven-war-plugin.version>2.6</maven-war-plugin.version>
