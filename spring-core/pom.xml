@@ -80,7 +80,7 @@
     <properties>
         <mockito.spring.boot.version>1.4.4.RELEASE</mockito.spring.boot.version>
         <javax.inject.version>1</javax.inject.version>
-        <guava.version>20.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <maven-war-plugin.version>2.6</maven-war-plugin.version>
         <lombok.version>1.16.12</lombok.version>
         <commons.io.version>2.5</commons.io.version>
