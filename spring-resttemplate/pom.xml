@@ -284,7 +284,7 @@
         <xstream.version>1.4.9</xstream.version>
 
         <!-- util -->
-        <guava.version>20.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
 
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.0</cargo-maven2-plugin.version>
