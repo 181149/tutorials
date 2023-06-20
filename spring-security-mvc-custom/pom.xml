@@ -200,7 +200,7 @@
         <jstl.version>1.2</jstl.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <jackson-databind.version>2.9.4</jackson-databind.version>
 
