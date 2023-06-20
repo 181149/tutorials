@@ -193,7 +193,7 @@
         <javax.el.version>2.2</javax.el.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
 
         <httpcore.version>4.4.5</httpcore.version>
