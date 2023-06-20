@@ -166,7 +166,7 @@
         <javax.el-api.version>2.2.5</javax.el-api.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
 
         <httpcore.version>4.4.1</httpcore.version>
