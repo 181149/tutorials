@@ -311,7 +311,7 @@
                         <argument>-Xmx300m</argument>
                         <argument>-XX:+UseParallelGC</argument>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.baeldung.outofmemoryerror.OutOfMemoryGCLimitExceed</argument>
                     </arguments>
                 </configuration>
@@ -377,7 +377,7 @@
                                     <executable>java</executable>
                                     <arguments>
                                         <argument>-classpath</argument>
-                                        <classpath />
+                                        <classpath/>
                                         <argument>org.openjdk.jmh.Main</argument>
                                         <argument>.*</argument>
                                     </arguments>
@@ -525,7 +525,7 @@
         
         <javamoney.moneta.version>1.1</javamoney.moneta.version>
         <h2database.version>1.4.197</h2database.version>
-        <esapi.version>2.1.0.1</esapi.version>
+        <esapi.version>2.2.0.0</esapi.version>
         <jmh-core.version>1.19</jmh-core.version>
        
         <jmh-generator-annprocess.version>1.19</jmh-generator-annprocess.version>
