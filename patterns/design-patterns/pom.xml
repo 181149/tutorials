@@ -53,7 +53,7 @@
         <grep4j.version>1.8.7</grep4j.version>
         <assertj-core.version>3.9.1</assertj-core.version>
         <javaee.version>8.0</javaee.version>
-        <hibernate-core.version>5.2.16.Final</hibernate-core.version>
+        <hibernate-core.version>5.2.18.Final</hibernate-core.version>
         <mysql-connector.version>6.0.6</mysql-connector.version>
     </properties>
 </project>
