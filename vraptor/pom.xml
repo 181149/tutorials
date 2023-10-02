@@ -131,7 +131,7 @@
         <hibernate-validator.version>5.1.1.Final</hibernate-validator.version>
         <jstl.version>1.2</jstl.version>
         <servlet.version>3.1.0</servlet.version>
-        <slf4j-log4j12.version>1.7.5</slf4j-log4j12.version>
+        <slf4j-log4j12.version>1.7.34</slf4j-log4j12.version>
         <vraptor-freemarker.version>4.1.0-RC3</vraptor-freemarker.version>
         <vraptor-hibernate.version>4.0.4</vraptor-hibernate.version>
         <mysql-connector.version>8.0.8-dmr</mysql-connector.version>
