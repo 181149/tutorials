@@ -176,7 +176,7 @@
     </build>
 
     <properties>
-        <hibernate-core.version>5.2.10.Final</hibernate-core.version>
+        <hibernate-core.version>5.2.18.Final</hibernate-core.version>
         <spring-security.version>4.2.3.RELEASE</spring-security.version>
         <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
         <h2database.version>1.4.196</h2database.version>
