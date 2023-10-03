@@ -888,11 +888,11 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.32.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
@@ -912,7 +912,7 @@
         <common-math3.version>3.6.1</common-math3.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
         <datanucleus.version>5.1.1</datanucleus.version>
-        <datanucleus-maven-plugin.version>5.0.2</datanucleus-maven-plugin.version>
+        <datanucleus-maven-plugin.version>6.0.0-release</datanucleus-maven-plugin.version>
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
