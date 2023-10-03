@@ -108,7 +108,7 @@
         <spring.version>5.0.1.RELEASE</spring.version>
         <testcontainers.version>1.7.2</testcontainers.version>
         <postgresql.version>42.2.2</postgresql.version>
-        <selenium-remote-driver.version>3.12.0</selenium-remote-driver.version>
+        <selenium-remote-driver.version>3.141.0</selenium-remote-driver.version>
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
     </properties>
 
