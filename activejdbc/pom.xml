@@ -127,7 +127,7 @@
     </pluginRepositories>
 
     <properties>
-        <activejdbc.version>1.4.13</activejdbc.version>
+        <activejdbc.version>2.1</activejdbc.version>
         <environments>development.test,development</environments>
         <mysql.connector.version>5.1.34</mysql.connector.version>
     </properties>
