@@ -45,7 +45,7 @@
     </build>
 
     <properties>
-        <quartz.version>2.2.3</quartz.version>
+        <quartz.version>2.3.0</quartz.version>
     </properties>
 
 </project>
