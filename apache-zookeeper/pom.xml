@@ -21,7 +21,7 @@
     </dependencies>
 
     <properties>
-        <org.apache.zookeeper.version>3.4.11</org.apache.zookeeper.version>
+        <org.apache.zookeeper.version>3.7.2</org.apache.zookeeper.version>
     </properties>
 
 </project>
