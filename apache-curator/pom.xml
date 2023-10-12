@@ -57,7 +57,7 @@
 
     <properties>
         <curator.version>4.0.1</curator.version>
-        <zookeeper.version>3.4.11</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
         <jackson-databind.version>2.9.4</jackson-databind.version>
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
