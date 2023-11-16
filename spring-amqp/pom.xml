@@ -33,7 +33,7 @@
     </build>
 
     <properties>
-        <spring-rabbit>1.6.6.RELEASE</spring-rabbit>
+        <spring-rabbit>2.1.0.RELEASE</spring-rabbit>
     </properties>
 
 </project>
