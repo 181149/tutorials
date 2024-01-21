@@ -220,7 +220,7 @@
         <jackson.version>2.9.3</jackson.version>
         <javax-jsp.version>2.3.1</javax-jsp.version>
         <javax-servlet.version>3.1.0</javax-servlet.version>
-        <jsonpath.version>2.4.0</jsonpath.version>
+        <jsonpath.version>2.9.0</jsonpath.version>
         <jstl.version>1.2</jstl.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.2.3</logback.version>
