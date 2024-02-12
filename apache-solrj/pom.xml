@@ -22,7 +22,7 @@
     </dependencies>
 
     <properties>
-        <org.apache.solr.solr-solrj.version>6.4.0</org.apache.solr.solr-solrj.version>
+        <org.apache.solr.solr-solrj.version>8.11.3</org.apache.solr.solr-solrj.version>
     </properties>
 
 </project>
