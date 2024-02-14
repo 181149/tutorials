@@ -888,7 +888,7 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.32.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
