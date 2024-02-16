@@ -249,7 +249,7 @@
         <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
 
         <!-- various -->
-        <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.2.0.Final</hibernate-validator.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
