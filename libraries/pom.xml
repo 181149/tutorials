@@ -886,7 +886,7 @@
         <protonpack.version>1.15</protonpack.version>
         <unit-ri.version>1.0.3</unit-ri.version>
         <cache.version>1.0.0</cache.version>
-        <hazelcast.version>3.10.2</hazelcast.version>
+        <hazelcast.version>5.3.5</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
