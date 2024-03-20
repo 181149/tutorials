@@ -880,7 +880,7 @@
         <vavr.version>0.9.0</vavr.version>
         <geotools.version>15.2</geotools.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
-        <retrofit.version>2.3.0</retrofit.version>
+        <retrofit.version>2.10.0</retrofit.version>
         <joda-time.version>2.10</joda-time.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
         <protonpack.version>1.15</protonpack.version>
