@@ -21,6 +21,6 @@
     </dependencies>
 
     <properties>
-        <easy-rules.version>3.0.0</easy-rules.version>
+        <easy-rules.version>3.4.0</easy-rules.version>
     </properties>
 </project>
