@@ -158,7 +158,7 @@
         <joda.version>2.10</joda.version>
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
-        <asspectj.version>1.8.9</asspectj.version>
+        <asspectj.version>1.9.22</asspectj.version>
         <avaitility.version>1.7.0</avaitility.version>
         <jmh-core.version>1.19</jmh-core.version>
         <jmh-generator.version>1.19</jmh-generator.version>
