@@ -133,7 +133,7 @@
         <hibernate-validator.version>6.0.10.Final</hibernate-validator.version>
         <jstl.version>1.2</jstl.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
