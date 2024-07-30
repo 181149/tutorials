@@ -207,7 +207,7 @@
                         <argument>-Xmx300m</argument>
                         <argument>-XX:+UseParallelGC</argument>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.baeldung.outofmemoryerror.OutOfMemoryGCLimitExceed</argument>
                     </arguments>
                 </configuration>
@@ -272,7 +272,7 @@
                                     <executable>java</executable>
                                     <arguments>
                                         <argument>-classpath</argument>
-                                        <classpath />
+                                        <classpath/>
                                         <argument>org.openjdk.jmh.Main</argument>
                                         <argument>.*</argument>
                                     </arguments>
@@ -316,7 +316,7 @@
         <hsqldb.version>2.4.0</hsqldb.version>
         <esapi.version>2.1.0.1</esapi.version>
         <jmh-generator-annprocess.version>1.19</jmh-generator-annprocess.version>
-        <async-http-client.version>2.4.5</async-http-client.version>
+        <async-http-client.version>3.0.0</async-http-client.version>
         <spring-boot-maven-plugin.version>2.0.4.RELEASE</spring-boot-maven-plugin.version>
     </properties>
 
