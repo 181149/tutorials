@@ -217,7 +217,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.8.14</org.springframework.security.version>
         <spring-boot.version>1.5.14.RELEASE</spring-boot.version>
         <javassist.version>3.21.0-GA</javassist.version>
 
