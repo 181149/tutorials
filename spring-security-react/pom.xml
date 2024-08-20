@@ -158,7 +158,7 @@
     <properties>
         <!-- Spring -->
         <org.springframework.version>4.3.6.RELEASE</org.springframework.version>
-        <org.springframework.security.version>4.2.1.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.8.14</org.springframework.security.version>
 
         <!-- various -->
         <javax.servlet.version>3.1.0</javax.servlet.version>
