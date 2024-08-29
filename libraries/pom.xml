@@ -908,7 +908,7 @@
         <mockftpserver.version>2.7.1</mockftpserver.version>
         <javapoet.version>1.10.0</javapoet.version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
-        <hoverfly-java.version>0.8.1</hoverfly-java.version>
+        <hoverfly-java.version>0.19.1</hoverfly-java.version>
         <common-math3.version>3.6.1</common-math3.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
         <datanucleus.version>5.1.1</datanucleus.version>
