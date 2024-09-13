@@ -37,7 +37,7 @@
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-rest-hal-browser</artifactId>
-      <version>3.0.8.RELEASE</version>
+      <version>3.2.0.RELEASE</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
     <dependency>
