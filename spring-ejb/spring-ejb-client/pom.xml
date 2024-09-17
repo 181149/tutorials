@@ -60,7 +60,7 @@
 
     <properties>
         <ejb-remote-for-spring.version>1.0.1</ejb-remote-for-spring.version>
-        <wildfly-ejb.version>12.0.0.Final</wildfly-ejb.version>
+        <wildfly-ejb.version>33.0.2.Final</wildfly-ejb.version>
     </properties>
 
 </project>
