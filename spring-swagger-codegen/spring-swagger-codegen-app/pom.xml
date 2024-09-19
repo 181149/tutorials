@@ -39,6 +39,6 @@
     <properties>
         <java.version>1.8</java.version>
         <spring-swagger-codegen-api-client.version>0.0.1-SNAPSHOT</spring-swagger-codegen-api-client.version>
-		<spring.version>1.5.10.RELEASE</spring.version>
+		<spring.version>3.2.10</spring.version>
     </properties>
 </project>
