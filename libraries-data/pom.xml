@@ -268,16 +268,14 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <property name="plugin_classpath" refid="maven.plugin.classpath" />
-                                <taskdef name="gen-reladomo" classpath="plugin_classpath" classname="com.gs.fw.common.mithra.generator.MithraGenerator" />
-                                <gen-reladomo xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml" generateGscListMethod="true"
-                                    generatedDir="${project.build.directory}/generated-sources/reladomo" nonGeneratedDir="${project.basedir}/src/main/java" />
+                                <property name="plugin_classpath" refid="maven.plugin.classpath"/>
+                                <taskdef name="gen-reladomo" classpath="plugin_classpath" classname="com.gs.fw.common.mithra.generator.MithraGenerator"/>
+                                <gen-reladomo xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml" generateGscListMethod="true" generatedDir="${project.build.directory}/generated-sources/reladomo" nonGeneratedDir="${project.basedir}/src/main/java"/>
 
                                 <taskdef name="gen-ddl" classname="com.gs.fw.common.mithra.generator.dbgenerator.MithraDbDefinitionGenerator" loaderRef="reladomoGenerator">
-                                    <classpath refid="maven.plugin.classpath" />
+                                    <classpath refid="maven.plugin.classpath"/>
                                 </taskdef>
-                                <gen-ddl xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml"
-                                    generatedDir="${project.build.directory}/generated-db/sql" databaseType="postgres" />
+                                <gen-ddl xml="${project.basedir}/src/main/resources/reladomo/ReladomoClassList.xml" generatedDir="${project.build.directory}/generated-db/sql" databaseType="postgres"/>
                             </tasks>
                         </configuration>
                     </execution>
@@ -415,7 +413,7 @@
         <datanucleus-jdo-query.version>5.0.4</datanucleus-jdo-query.version>
         <jmapper.version>1.6.0.1</jmapper.version>
         <org.apache.crunch.crunch-core.version>0.15.0</org.apache.crunch.crunch-core.version>
-        <org.apache.hadoop.hadoop-client>2.2.0</org.apache.hadoop.hadoop-client>   
+        <org.apache.hadoop.hadoop-client>3.0.0</org.apache.hadoop.hadoop-client>   
     </properties>
 
 </project>
