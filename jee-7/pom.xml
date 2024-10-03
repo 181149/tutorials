@@ -416,7 +416,7 @@
         <org.springframework.security.version>4.2.3.RELEASE</org.springframework.security.version>
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
         <taglibs.standard.version>1.1.2</taglibs.standard.version>
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <com.sun.faces.jsf.version>2.2.14</com.sun.faces.jsf.version>
         <httpclient.version>4.5</httpclient.version>
         <arquillian-drone-bom.version>2.0.1.Final</arquillian-drone-bom.version>
