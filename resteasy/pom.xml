@@ -142,8 +142,8 @@
     </profiles>
 
     <properties>
-        <resteasy.version>3.0.19.Final</resteasy.version>
-        <commons-io.version>2.5</commons-io.version>
+        <resteasy.version>3.0.21.Final</resteasy.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
     </properties>
 
