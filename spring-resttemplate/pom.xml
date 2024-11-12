@@ -281,7 +281,7 @@
 
     <properties>
         <commons-lang3.version>3.5</commons-lang3.version>
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
 
         <!-- util -->
         <guava.version>20.0</guava.version>
