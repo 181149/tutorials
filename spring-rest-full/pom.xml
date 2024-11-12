@@ -330,7 +330,7 @@
 
     <properties>
         <!-- various -->
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
 
         <!-- util -->
         <guava.version>19.0</guava.version>
