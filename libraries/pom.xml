@@ -892,8 +892,8 @@
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
-        <async.http.client.version>2.2.0</async.http.client.version>
+        <docker.version>3.2.0</docker.version>
+        <async.http.client.version>3.0.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
         <unirest.version>1.4.9</unirest.version>
@@ -916,7 +916,7 @@
         <datanucleus-xml.version>5.0.0-release</datanucleus-xml.version>
         <datanucleus-jdo-query.version>5.0.2</datanucleus-jdo-query.version>
         <chronicle.version>3.6.4</chronicle.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
         <HikariCP.version>2.6.3</HikariCP.version>
         <quartz.version>2.3.0</quartz.version>
