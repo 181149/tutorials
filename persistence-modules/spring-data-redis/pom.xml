@@ -77,11 +77,11 @@
     </dependencies>
 
     <properties>
-        <spring-data-redis>2.0.3.RELEASE</spring-data-redis>
+        <spring-data-redis>3.2.11</spring-data-redis>
         <cglib.version>3.2.4</cglib.version>
         <jedis.version>2.9.0</jedis.version>
         <nosqlunit.version>0.10.0</nosqlunit.version>
-        <spring-data-commons.version>2.0.3.RELEASE</spring-data-commons.version>
+        <spring-data-commons.version>3.2.11</spring-data-commons.version>
         <embedded-redis.version>0.6</embedded-redis.version>
     </properties>
 
