@@ -191,7 +191,7 @@
                         <argument>-Xmx300m</argument>
                         <argument>-XX:+UseParallelGC</argument>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.baeldung.outofmemoryerror.OutOfMemoryGCLimitExceed</argument>
                     </arguments>
                 </configuration>
@@ -247,7 +247,7 @@
                                     <executable>java</executable>
                                     <arguments>
                                         <argument>-classpath</argument>
-                                        <classpath />
+                                        <classpath/>
                                         <argument>org.openjdk.jmh.Main</argument>
                                         <argument>.*</argument>
                                     </arguments>
@@ -280,7 +280,7 @@
         <protonpack.version>1.13</protonpack.version>
         <streamex.version>0.6.5</streamex.version>
         <vavr.version>0.9.0</vavr.version>
-        <spring-web.version>4.3.4.RELEASE</spring-web.version>
+        <spring-web.version>6.1.14</spring-web.version>
 
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
