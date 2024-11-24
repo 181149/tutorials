@@ -217,14 +217,14 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
-        <spring-boot.version>1.5.14.RELEASE</spring-boot.version>
+        <org.springframework.security.version>6.2.7</org.springframework.security.version>
+        <spring-boot.version>3.2.11</spring-boot.version>
         <javassist.version>3.21.0-GA</javassist.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.10.Final</hibernate.version>
         <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
-        <spring-data-jpa.version>1.10.5.RELEASE</spring-data-jpa.version>
+        <spring-data-jpa.version>3.2.11</spring-data-jpa.version>
         <h2.version>1.4.193</h2.version>
         <derby.version>10.13.1.1</derby.version>
 
