@@ -67,7 +67,7 @@
     </build>
 
     <properties>
-        <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
+        <spring-boot.version>3.2.11</spring-boot.version>
         <custom.property>Custom Property Value</custom.property>
     </properties>
 
