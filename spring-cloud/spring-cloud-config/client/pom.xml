@@ -41,7 +41,7 @@
     </build>
 
     <properties>
-        <spring-cloud-starter-config.version>1.2.2.RELEASE</spring-cloud-starter-config.version>
-        <org.springframework.boot.version>1.4.2.RELEASE</org.springframework.boot.version>
+        <spring-cloud-starter-config.version>4.0.0</spring-cloud-starter-config.version>
+        <org.springframework.boot.version>3.2.11</org.springframework.boot.version>
     </properties>
 </project>
