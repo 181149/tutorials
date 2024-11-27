@@ -160,7 +160,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.7.14</org.springframework.security.version>
 
         <!-- various -->
         <codahale.metrics.version>3.0.2</codahale.metrics.version>
