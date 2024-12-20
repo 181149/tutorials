@@ -890,7 +890,7 @@
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
-        <kafka.version>2.0.0</kafka.version>
+        <kafka.version>3.7.2</kafka.version>
         <smooks.version>1.7.0</smooks.version>
         <docker.version>3.0.14</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
@@ -934,7 +934,7 @@
         <jaxb-api.version>2.1</jaxb-api.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
-        <javalin.version>1.6.0</javalin.version>
+        <javalin.version>6.4.0</javalin.version>
         <fugue.version>4.5.1</fugue.version>
         <maven-bundle-plugin.version>3.3.0</maven-bundle-plugin.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
