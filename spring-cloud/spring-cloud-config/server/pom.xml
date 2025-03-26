@@ -47,7 +47,7 @@
     </build>
 
     <properties>
-        <spring-cloud-config-server.version>1.2.2.RELEASE</spring-cloud-config-server.version>
+        <spring-cloud-config-server.version>4.2.0</spring-cloud-config-server.version>
         <org.springframework.boot.version>1.4.2.RELEASE</org.springframework.boot.version>
     </properties>
 
