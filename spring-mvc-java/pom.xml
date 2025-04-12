@@ -273,7 +273,7 @@
         <aspectj.version>1.9.1</aspectj.version>
 
         <!-- excel -->
-        <poi.version>3.16-beta1</poi.version>
+        <poi.version>5.4.0</poi.version>
 
         <javax.el.version>3.0.1-b06</javax.el.version>
 		
