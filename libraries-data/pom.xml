@@ -182,7 +182,7 @@
 
     <properties>
         <httpclient.version>3.1</httpclient.version>
-        <kafka.version>3.3.1</kafka.version>
+        <kafka.version>3.9.1</kafka.version>
         <gson.version>2.11.0</gson.version>
         <cache.version>1.1.1</cache.version>
         <flink.version>1.20.0</flink.version>
