@@ -82,8 +82,8 @@
     </build>
 
     <properties>
-        <log4j-core.version>2.19.0</log4j-core.version>
-        <log4j-core-json-template.version>2.24.3</log4j-core-json-template.version>
+        <log4j-core.version>2.25.3</log4j-core.version>
+        <log4j-core-json-template.version>2.25.3</log4j-core-json-template.version>
         <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
     </properties>
 
