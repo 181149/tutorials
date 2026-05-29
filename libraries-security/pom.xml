@@ -162,7 +162,7 @@
         <scribejava.version>8.3.3</scribejava.version>
         <passay.version>1.3.1</passay.version>
         <tink.version>1.2.2</tink.version>
-        <cryptacular.version>1.2.2</cryptacular.version>
+        <cryptacular.version>1.2.5</cryptacular.version>
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.68</bouncycastle.version>
         <jsch.version>0.2.18</jsch.version>
@@ -170,7 +170,7 @@
         <apache-sftp.version>2.12.1</apache-sftp.version>
         <apache-scp.version>2.12.1</apache-scp.version>
         <xacml4j.version>1.4.0</xacml4j.version>
-        <sshj.version>0.38.0</sshj.version>
+        <sshj.version>0.40.0</sshj.version>
     </properties>
 
 </project>
